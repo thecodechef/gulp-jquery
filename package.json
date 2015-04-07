@@ -1,0 +1,24 @@
+{
+  "name": "gulp-jquery",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/thecodechef/gulp-jquery.git"
+  },
+  "keywords": [
+    "jquery",
+    "gulp",
+    "gulp-jquery"
+  ],
+  "author": "Jeremy Bolding <cyberchefjay@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thecodechef/gulp-jquery/issues"
+  },
+  "homepage": "https://github.com/thecodechef/gulp-jquery"
+}
